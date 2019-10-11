@@ -1,0 +1,10 @@
+1.升级macOS  造成pod问题
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby: bad interpreter: No such file or directory
+
+do:  sudo gem install -n /usr/local/bin cocoapods
+
+2.操作符
+    .. 可以对同一对象执行一系列操作，能够节省中间步骤和临时变量，让代码更高效。  级联语法 是dart的特殊语法。
+3.
+
+
